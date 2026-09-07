@@ -1,0 +1,25 @@
+[
+  {
+    "x": 128,
+    "y": 128,
+    "name": "base",
+    "team": "PlayerTeam",
+    "exists": true,
+    "states": {
+      "type": "StorageBlock",
+      "z": 35,
+      "hardness": 10,
+      "mining_type": null,
+      "max_storage": 100,
+      "ignore_on_editor": true
+    },
+    "type": "StorageBlock",
+    "centered": false,
+    "_hp": 10,
+    "size": [
+      3,
+      3
+    ],
+    "max_storage": 100
+  }
+]

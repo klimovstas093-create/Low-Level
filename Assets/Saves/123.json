@@ -1,0 +1,999 @@
+[
+  {
+    "x": 128,
+    "y": 128,
+    "name": "base",
+    "team": "PlayerTeam",
+    "exists": true,
+    "states": {
+      "type": "Base",
+      "z": 35,
+      "hardness": 10,
+      "max_storage": 1000,
+      "ignore_on_editor": true
+    },
+    "type": "Base",
+    "centered": false,
+    "_hp": 10,
+    "temperature": 20,
+    "size": [
+      3,
+      3
+    ],
+    "max_storage": 1000,
+    "old_lst": [
+      "lead",
+      "lead",
+      "lead",
+      "coal",
+      "coal",
+      "coal",
+      "coal",
+      "coal",
+      "coal",
+      "coal",
+      "coal",
+      "coal",
+      "coal",
+      "coal",
+      "coal",
+      "coal",
+      "coal",
+      "coal",
+      "coal",
+      "coal",
+      "coal",
+      "coal",
+      "coal",
+      "coal",
+      "coal",
+      "coal",
+      "coal",
+      "coal",
+      "coal",
+      "coal",
+      "coal",
+      "coal",
+      "coal",
+      "coal"
+    ]
+  },
+  {
+    "x": 128,
+    "y": 128,
+    "name": "base",
+    "team": "PlayerTeam",
+    "exists": true,
+    "states": {
+      "type": "Base",
+      "z": 35,
+      "hardness": 10,
+      "max_storage": 1000,
+      "ignore_on_editor": true
+    },
+    "type": "Base",
+    "centered": false,
+    "_hp": 10,
+    "temperature": 20,
+    "size": [
+      3,
+      3
+    ],
+    "max_storage": 1000,
+    "old_lst": [
+      "lead",
+      "lead",
+      "lead",
+      "coal",
+      "coal",
+      "coal",
+      "coal",
+      "coal",
+      "coal",
+      "coal",
+      "coal",
+      "coal",
+      "coal",
+      "coal",
+      "coal",
+      "coal",
+      "coal",
+      "coal",
+      "coal",
+      "coal",
+      "coal",
+      "coal",
+      "coal",
+      "coal",
+      "coal",
+      "coal",
+      "coal",
+      "coal",
+      "coal",
+      "coal",
+      "coal",
+      "coal",
+      "coal",
+      "coal"
+    ]
+  },
+  {
+    "x": 128,
+    "y": 128,
+    "name": "base",
+    "team": "PlayerTeam",
+    "exists": true,
+    "states": {
+      "type": "Base",
+      "z": 35,
+      "hardness": 10,
+      "max_storage": 1000,
+      "ignore_on_editor": true
+    },
+    "type": "Base",
+    "centered": false,
+    "_hp": 10,
+    "temperature": 20,
+    "size": [
+      3,
+      3
+    ],
+    "max_storage": 1000,
+    "old_lst": [
+      "lead",
+      "lead",
+      "lead",
+      "coal",
+      "coal",
+      "coal",
+      "coal",
+      "coal",
+      "coal",
+      "coal",
+      "coal",
+      "coal",
+      "coal",
+      "coal",
+      "coal",
+      "coal",
+      "coal",
+      "coal",
+      "coal",
+      "coal",
+      "coal",
+      "coal",
+      "coal",
+      "coal",
+      "coal",
+      "coal",
+      "coal",
+      "coal",
+      "coal",
+      "coal",
+      "coal",
+      "coal",
+      "coal",
+      "coal"
+    ]
+  },
+  {
+    "x": 128,
+    "y": 128,
+    "name": "base",
+    "team": "PlayerTeam",
+    "exists": true,
+    "states": {
+      "type": "Base",
+      "z": 35,
+      "hardness": 10,
+      "max_storage": 1000,
+      "ignore_on_editor": true
+    },
+    "type": "Base",
+    "centered": false,
+    "_hp": 10,
+    "temperature": 20,
+    "size": [
+      3,
+      3
+    ],
+    "max_storage": 1000,
+    "old_lst": [
+      "lead",
+      "lead",
+      "lead",
+      "coal",
+      "coal",
+      "coal",
+      "coal",
+      "coal",
+      "coal",
+      "coal",
+      "coal",
+      "coal",
+      "coal",
+      "coal",
+      "coal",
+      "coal",
+      "coal",
+      "coal",
+      "coal",
+      "coal",
+      "coal",
+      "coal",
+      "coal",
+      "coal",
+      "coal",
+      "coal",
+      "coal",
+      "coal",
+      "coal",
+      "coal",
+      "coal",
+      "coal",
+      "coal",
+      "coal"
+    ]
+  },
+  {
+    "x": 128,
+    "y": 128,
+    "name": "base",
+    "team": "PlayerTeam",
+    "exists": true,
+    "states": {
+      "type": "Base",
+      "z": 35,
+      "hardness": 10,
+      "max_storage": 1000,
+      "ignore_on_editor": true
+    },
+    "type": "Base",
+    "centered": false,
+    "_hp": 10,
+    "temperature": 20,
+    "size": [
+      3,
+      3
+    ],
+    "max_storage": 1000,
+    "old_lst": [
+      "lead",
+      "lead",
+      "lead",
+      "coal",
+      "coal",
+      "coal",
+      "coal",
+      "coal",
+      "coal",
+      "coal",
+      "coal",
+      "coal",
+      "coal",
+      "coal",
+      "coal",
+      "coal",
+      "coal",
+      "coal",
+      "coal",
+      "coal",
+      "coal",
+      "coal",
+      "coal",
+      "coal",
+      "coal",
+      "coal",
+      "coal",
+      "coal",
+      "coal",
+      "coal",
+      "coal",
+      "coal",
+      "coal",
+      "coal"
+    ]
+  },
+  {
+    "x": 128,
+    "y": 128,
+    "name": "base",
+    "team": "PlayerTeam",
+    "exists": true,
+    "states": {
+      "type": "Base",
+      "z": 35,
+      "hardness": 10,
+      "max_storage": 1000,
+      "ignore_on_editor": true
+    },
+    "type": "Base",
+    "centered": false,
+    "_hp": 10,
+    "temperature": 20,
+    "size": [
+      3,
+      3
+    ],
+    "max_storage": 1000,
+    "old_lst": [
+      "lead",
+      "lead",
+      "lead",
+      "coal",
+      "coal",
+      "coal",
+      "coal",
+      "coal",
+      "coal",
+      "coal",
+      "coal",
+      "coal",
+      "coal",
+      "coal",
+      "coal",
+      "coal",
+      "coal",
+      "coal",
+      "coal",
+      "coal",
+      "coal",
+      "coal",
+      "coal",
+      "coal",
+      "coal",
+      "coal",
+      "coal",
+      "coal",
+      "coal",
+      "coal",
+      "coal",
+      "coal",
+      "coal",
+      "coal"
+    ]
+  },
+  {
+    "x": 128,
+    "y": 128,
+    "name": "base",
+    "team": "PlayerTeam",
+    "exists": true,
+    "states": {
+      "type": "Base",
+      "z": 35,
+      "hardness": 10,
+      "max_storage": 1000,
+      "ignore_on_editor": true
+    },
+    "type": "Base",
+    "centered": false,
+    "_hp": 10,
+    "temperature": 20,
+    "size": [
+      3,
+      3
+    ],
+    "max_storage": 1000,
+    "old_lst": [
+      "lead",
+      "lead",
+      "lead",
+      "coal",
+      "coal",
+      "coal",
+      "coal",
+      "coal",
+      "coal",
+      "coal",
+      "coal",
+      "coal",
+      "coal",
+      "coal",
+      "coal",
+      "coal",
+      "coal",
+      "coal",
+      "coal",
+      "coal",
+      "coal",
+      "coal",
+      "coal",
+      "coal",
+      "coal",
+      "coal",
+      "coal",
+      "coal",
+      "coal",
+      "coal",
+      "coal",
+      "coal",
+      "coal",
+      "coal"
+    ]
+  },
+  {
+    "x": 128,
+    "y": 128,
+    "name": "base",
+    "team": "PlayerTeam",
+    "exists": true,
+    "states": {
+      "type": "Base",
+      "z": 35,
+      "hardness": 10,
+      "max_storage": 1000,
+      "ignore_on_editor": true
+    },
+    "type": "Base",
+    "centered": false,
+    "_hp": 10,
+    "temperature": 20,
+    "size": [
+      3,
+      3
+    ],
+    "max_storage": 1000,
+    "old_lst": [
+      "lead",
+      "lead",
+      "lead",
+      "coal",
+      "coal",
+      "coal",
+      "coal",
+      "coal",
+      "coal",
+      "coal",
+      "coal",
+      "coal",
+      "coal",
+      "coal",
+      "coal",
+      "coal",
+      "coal",
+      "coal",
+      "coal",
+      "coal",
+      "coal",
+      "coal",
+      "coal",
+      "coal",
+      "coal",
+      "coal",
+      "coal",
+      "coal",
+      "coal",
+      "coal",
+      "coal",
+      "coal",
+      "coal",
+      "coal"
+    ]
+  },
+  {
+    "x": 128,
+    "y": 128,
+    "name": "base",
+    "team": "PlayerTeam",
+    "exists": true,
+    "states": {
+      "type": "Base",
+      "z": 35,
+      "hardness": 10,
+      "max_storage": 1000,
+      "ignore_on_editor": true
+    },
+    "type": "Base",
+    "centered": false,
+    "_hp": 10,
+    "temperature": 20,
+    "size": [
+      3,
+      3
+    ],
+    "max_storage": 1000,
+    "old_lst": [
+      "lead",
+      "lead",
+      "lead",
+      "coal",
+      "coal",
+      "coal",
+      "coal",
+      "coal",
+      "coal",
+      "coal",
+      "coal",
+      "coal",
+      "coal",
+      "coal",
+      "coal",
+      "coal",
+      "coal",
+      "coal",
+      "coal",
+      "coal",
+      "coal",
+      "coal",
+      "coal",
+      "coal",
+      "coal",
+      "coal",
+      "coal",
+      "coal",
+      "coal",
+      "coal",
+      "coal",
+      "coal",
+      "coal",
+      "coal"
+    ]
+  },
+  {
+    "mining_progress": 0.656240701675415,
+    "x": 139,
+    "y": 129,
+    "name": "drill",
+    "team": "PlayerTeam",
+    "exists": true,
+    "states": {
+      "type": "Drill",
+      "z": 30,
+      "hardness": 2,
+      "cost": {
+        "lead": 1
+      },
+      "max_storage": 10,
+      "mining_speed": 1,
+      "mining_max_temperature": 80
+    },
+    "type": "Drill",
+    "centered": false,
+    "_hp": 2,
+    "temperature": 19.996274621913038,
+    "size": [
+      2,
+      2
+    ],
+    "max_storage": 10,
+    "old_lst": [],
+    "mining_speed": 1,
+    "ores": [
+      "coal"
+    ]
+  },
+  {
+    "x": 139,
+    "y": 129,
+    "name": "coal_2",
+    "team": "PlayerTeam",
+    "exists": true,
+    "states": {
+      "type": "Block",
+      "z": 14,
+      "hardness": -1,
+      "mining_type": "coal",
+      "relief": true
+    },
+    "type": "Block",
+    "centered": false,
+    "_hp": -1,
+    "temperature": 20,
+    "size": [
+      1,
+      1
+    ]
+  },
+  {
+    "mining_progress": 0.656240701675415,
+    "x": 139,
+    "y": 129,
+    "name": "drill",
+    "team": "PlayerTeam",
+    "exists": true,
+    "states": {
+      "type": "Drill",
+      "z": 30,
+      "hardness": 2,
+      "cost": {
+        "lead": 1
+      },
+      "max_storage": 10,
+      "mining_speed": 1,
+      "mining_max_temperature": 80
+    },
+    "type": "Drill",
+    "centered": false,
+    "_hp": 2,
+    "temperature": 19.996274621913038,
+    "size": [
+      2,
+      2
+    ],
+    "max_storage": 10,
+    "old_lst": [],
+    "mining_speed": 1,
+    "ores": [
+      "coal"
+    ]
+  },
+  {
+    "mining_progress": 0.656240701675415,
+    "x": 139,
+    "y": 129,
+    "name": "drill",
+    "team": "PlayerTeam",
+    "exists": true,
+    "states": {
+      "type": "Drill",
+      "z": 30,
+      "hardness": 2,
+      "cost": {
+        "lead": 1
+      },
+      "max_storage": 10,
+      "mining_speed": 1,
+      "mining_max_temperature": 80
+    },
+    "type": "Drill",
+    "centered": false,
+    "_hp": 2,
+    "temperature": 19.996274621913038,
+    "size": [
+      2,
+      2
+    ],
+    "max_storage": 10,
+    "old_lst": [],
+    "mining_speed": 1,
+    "ores": [
+      "coal"
+    ]
+  },
+  {
+    "mining_progress": 0.656240701675415,
+    "x": 139,
+    "y": 129,
+    "name": "drill",
+    "team": "PlayerTeam",
+    "exists": true,
+    "states": {
+      "type": "Drill",
+      "z": 30,
+      "hardness": 2,
+      "cost": {
+        "lead": 1
+      },
+      "max_storage": 10,
+      "mining_speed": 1,
+      "mining_max_temperature": 80
+    },
+    "type": "Drill",
+    "centered": false,
+    "_hp": 2,
+    "temperature": 19.996274621913038,
+    "size": [
+      2,
+      2
+    ],
+    "max_storage": 10,
+    "old_lst": [],
+    "mining_speed": 1,
+    "ores": [
+      "coal"
+    ]
+  },
+  {
+    "x": 138,
+    "y": 129,
+    "name": "conveyor_left",
+    "team": "PlayerTeam",
+    "exists": true,
+    "states": {
+      "type": "Conveyor",
+      "z": 30,
+      "hardness": 1,
+      "max_storage": 1,
+      "direction_start": [
+        -1,
+        0
+      ],
+      "direction_end": [
+        1,
+        0
+      ]
+    },
+    "type": "Conveyor",
+    "centered": false,
+    "_hp": 1,
+    "temperature": 20.083725378087514,
+    "size": [
+      1,
+      1
+    ],
+    "max_storage": 1,
+    "old_lst": [],
+    "direction_start": [
+      -1,
+      0
+    ],
+    "direction_end": [
+      1,
+      0
+    ]
+  },
+  {
+    "x": 137,
+    "y": 129,
+    "name": "conveyor_left",
+    "team": "PlayerTeam",
+    "exists": true,
+    "states": {
+      "type": "Conveyor",
+      "z": 30,
+      "hardness": 1,
+      "max_storage": 1,
+      "direction_start": [
+        -1,
+        0
+      ],
+      "direction_end": [
+        1,
+        0
+      ]
+    },
+    "type": "Conveyor",
+    "centered": false,
+    "_hp": 1,
+    "temperature": 20,
+    "size": [
+      1,
+      1
+    ],
+    "max_storage": 1,
+    "old_lst": [],
+    "direction_start": [
+      -1,
+      0
+    ],
+    "direction_end": [
+      1,
+      0
+    ]
+  },
+  {
+    "x": 136,
+    "y": 129,
+    "name": "conveyor_left",
+    "team": "PlayerTeam",
+    "exists": true,
+    "states": {
+      "type": "Conveyor",
+      "z": 30,
+      "hardness": 1,
+      "max_storage": 1,
+      "direction_start": [
+        -1,
+        0
+      ],
+      "direction_end": [
+        1,
+        0
+      ]
+    },
+    "type": "Conveyor",
+    "centered": false,
+    "_hp": 1,
+    "temperature": 20,
+    "size": [
+      1,
+      1
+    ],
+    "max_storage": 1,
+    "old_lst": [],
+    "direction_start": [
+      -1,
+      0
+    ],
+    "direction_end": [
+      1,
+      0
+    ]
+  },
+  {
+    "x": 135,
+    "y": 129,
+    "name": "conveyor_left",
+    "team": "PlayerTeam",
+    "exists": true,
+    "states": {
+      "type": "Conveyor",
+      "z": 30,
+      "hardness": 1,
+      "max_storage": 1,
+      "direction_start": [
+        -1,
+        0
+      ],
+      "direction_end": [
+        1,
+        0
+      ]
+    },
+    "type": "Conveyor",
+    "centered": false,
+    "_hp": 1,
+    "temperature": 20,
+    "size": [
+      1,
+      1
+    ],
+    "max_storage": 1,
+    "old_lst": [],
+    "direction_start": [
+      -1,
+      0
+    ],
+    "direction_end": [
+      1,
+      0
+    ]
+  },
+  {
+    "x": 134,
+    "y": 129,
+    "name": "conveyor_left",
+    "team": "PlayerTeam",
+    "exists": true,
+    "states": {
+      "type": "Conveyor",
+      "z": 30,
+      "hardness": 1,
+      "max_storage": 1,
+      "direction_start": [
+        -1,
+        0
+      ],
+      "direction_end": [
+        1,
+        0
+      ]
+    },
+    "type": "Conveyor",
+    "centered": false,
+    "_hp": 1,
+    "temperature": 20,
+    "size": [
+      1,
+      1
+    ],
+    "max_storage": 1,
+    "old_lst": [],
+    "direction_start": [
+      -1,
+      0
+    ],
+    "direction_end": [
+      1,
+      0
+    ]
+  },
+  {
+    "x": 133,
+    "y": 129,
+    "name": "conveyor_left",
+    "team": "PlayerTeam",
+    "exists": true,
+    "states": {
+      "type": "Conveyor",
+      "z": 30,
+      "hardness": 1,
+      "max_storage": 1,
+      "direction_start": [
+        -1,
+        0
+      ],
+      "direction_end": [
+        1,
+        0
+      ]
+    },
+    "type": "Conveyor",
+    "centered": false,
+    "_hp": 1,
+    "temperature": 20,
+    "size": [
+      1,
+      1
+    ],
+    "max_storage": 1,
+    "old_lst": [],
+    "direction_start": [
+      -1,
+      0
+    ],
+    "direction_end": [
+      1,
+      0
+    ]
+  },
+  {
+    "x": 132,
+    "y": 129,
+    "name": "conveyor_left",
+    "team": "PlayerTeam",
+    "exists": true,
+    "states": {
+      "type": "Conveyor",
+      "z": 30,
+      "hardness": 1,
+      "max_storage": 1,
+      "direction_start": [
+        -1,
+        0
+      ],
+      "direction_end": [
+        1,
+        0
+      ]
+    },
+    "type": "Conveyor",
+    "centered": false,
+    "_hp": 1,
+    "temperature": 20,
+    "size": [
+      1,
+      1
+    ],
+    "max_storage": 1,
+    "old_lst": [],
+    "direction_start": [
+      -1,
+      0
+    ],
+    "direction_end": [
+      1,
+      0
+    ]
+  },
+  {
+    "x": 131,
+    "y": 129,
+    "name": "conveyor_left",
+    "team": "PlayerTeam",
+    "exists": true,
+    "states": {
+      "type": "Conveyor",
+      "z": 30,
+      "hardness": 1,
+      "max_storage": 1,
+      "direction_start": [
+        -1,
+        0
+      ],
+      "direction_end": [
+        1,
+        0
+      ]
+    },
+    "type": "Conveyor",
+    "centered": false,
+    "_hp": 1,
+    "temperature": 20,
+    "size": [
+      1,
+      1
+    ],
+    "max_storage": 1,
+    "old_lst": [],
+    "direction_start": [
+      -1,
+      0
+    ],
+    "direction_end": [
+      1,
+      0
+    ]
+  }
+]
